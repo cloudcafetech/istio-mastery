@@ -3,3 +3,5 @@ This is the repo for the new series that picks up where **"[Learn Kubernetes in 
 -	**Traffic management:** Timeouts, retries, canary rollouts, 
 -	**Security:** End-user Authentication and Authorization,
 -	**Observability:** Tracing, monitoring and logging.
+
+https://rinormaloku.com/istio-an-introduction/
